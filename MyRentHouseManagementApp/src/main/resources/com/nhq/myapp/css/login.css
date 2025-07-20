@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jul 14, 2025, 1:20:13 PM
+    Author     : huuqu
+*/
+
+
+.Main{
+    -fx-padding: 20;
+    -fx-alignment: CENTER;
+    -fx-spacing: 20;
+}
+
+.Header{
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+.TextFieldGroup{
+    -fx-alignment: CENTER;
+    -fx-spacing: 10;
+}
+
+.TextLabel{
+    -fx-font-size: 14;
+    -fx-font-weight: bold;
+}
+
+.ButtonGroup{
+    -fx-alignment: CENTER;
+    -fx-spacing: 20;
+}
+
+.Button{
+    -fx-alignment: CENTER;
+    -fx-font-weight: bold;
+}
